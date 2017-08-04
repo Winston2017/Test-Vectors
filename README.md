@@ -1,2 +1,4 @@
 # Test-Vectors
-Testing real-time systems.
+#
+Experimenting with hard real-time systems. To develop time-critical IOT devices.
+
