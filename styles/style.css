@@ -1,0 +1,20 @@
+
+         h1 { color: teal;}
+
+      body  { padding: 10px;
+               border: 1px solid transparent;
+               margin: 10px;
+            }
+
+ #runButton { border-radius: 9px;
+                    padding: 4px 15px;
+                     margin: 30px 0px 0px 76px;
+                      color: brown;
+                       font: normal 16px times;
+            }
+
+ #textInput { border-radius: 5px;
+                    padding: 0px 0px 0px 5px;
+                      color: blue;
+                       font: normal 14pt times;
+            }
